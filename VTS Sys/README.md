@@ -206,4 +206,4 @@ sequenceDiagram
  - [Manage Time use case](useCases/Manage-time.md)
  - [Widthdraw Reuest](useCases/withdraw-request.md)
  - [Cancel Approved Request](useCases/cancel-approved-request.md)
- -[Edit Pending Request](useCases/edit-pending-request.md)
+ - [Edit Pending Request](useCases/edit-pending-request.md)
